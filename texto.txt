@@ -1,0 +1,1 @@
+Ejemplo de gir rm y git mv
